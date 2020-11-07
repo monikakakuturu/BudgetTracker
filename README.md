@@ -11,9 +11,7 @@
     
     
 Deployed Application Link:
-    
-    https://lit-hamlet-47224.herokuapp.com/
-    
-    
+
+https://lit-hamlet-47224.herokuapp.com/
     
 ![image](https://user-images.githubusercontent.com/66193098/98431735-faba4400-206c-11eb-81e0-6255e79939fe.png)
