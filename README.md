@@ -8,3 +8,6 @@
     Enter expenses offline
 5. When brought back online:
     Offline entries should be added to tracker.
+    
+    
+![image](https://user-images.githubusercontent.com/66193098/98431735-faba4400-206c-11eb-81e0-6255e79939fe.png)
